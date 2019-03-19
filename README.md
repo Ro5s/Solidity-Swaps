@@ -1,2 +1,2 @@
 # Solidity-Swaps
-Various Solidity programs for exchange digital assets
+Various Solidity programs for exchanging digital assets
